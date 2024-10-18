@@ -65,4 +65,6 @@ fun BasicCompose(
 
                 ),
         )
+        Text(
+            text = "ini adalah halaman login",
 
