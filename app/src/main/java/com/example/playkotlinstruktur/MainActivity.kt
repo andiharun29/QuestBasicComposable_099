@@ -91,4 +91,7 @@ fun BasicCompose(
         )
         Text(
             text = "20220140099",
+            fontSize = 40.sp,
+            color = Color.Cyan,
+        )
 
