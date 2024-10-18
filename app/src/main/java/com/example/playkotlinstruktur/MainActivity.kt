@@ -85,4 +85,8 @@ fun BasicCompose(
         )
         Text(
             text = "Andi Harun Al Rasyid",
+            fontWeight = FontWeight.Bold,
+            fontSize = 25.sp,
+            color = Color.DarkGray,
+        )
 
