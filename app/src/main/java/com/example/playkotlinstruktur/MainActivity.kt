@@ -96,4 +96,10 @@ fun BasicCompose(
         )
         Image(painter = painterResource(id = R.drawable.fotoku),
             contentDescription = null,
-
+            modifier = Modifier
+                .size(1500.dp)
+                .clip(CircleShape)
+                .clip(RoundedCornerShape(100.dp))
+        )
+    }
+}
