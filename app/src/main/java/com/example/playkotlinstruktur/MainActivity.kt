@@ -67,4 +67,9 @@ fun BasicCompose(
         )
         Text(
             text = "ini adalah halaman login",
+            style = TextStyle(
+            color = Color.Black,
+            fontSize = 20.sp
+            )
+        )
 
