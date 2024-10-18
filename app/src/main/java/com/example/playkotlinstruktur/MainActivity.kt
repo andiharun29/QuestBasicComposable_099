@@ -83,4 +83,6 @@ fun BasicCompose(
                 color = Color.Magenta,
             )
         )
+        Text(
+            text = "Andi Harun Al Rasyid",
 
